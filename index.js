@@ -20,7 +20,7 @@ const App = (props) => {
   let [photos, setPhotos] = useState([]);
   
   // CHALLENGE:
-  // Change the query to one of your interests
+  // Change the query to one of your interestss
   let [query, setQuery] = useState("Marvel");
   const queryInput = useRef(null);
 
